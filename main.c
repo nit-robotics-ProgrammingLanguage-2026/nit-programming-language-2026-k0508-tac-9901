@@ -18,7 +18,7 @@ int main(void)
         {
          if(n%3 == 0)
        {
-         printf("UP");
+         printf("Up");
        found = 1;
        }
         
@@ -38,6 +38,6 @@ int main(void)
          printf("No");
        }
       }
-      
+
     return 0;
 }
